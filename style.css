@@ -1,0 +1,62 @@
+/* Define a cor de fundo da página */
+body {
+  background-color: #f2f2f2;
+}
+
+/* Define as cores de destaque do currículo */
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: #333333;
+}
+
+/* Define a fonte padrão do currículo */
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Define o estilo da lista de experiência profissional */
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Define a cor de fundo das caixas de informação */
+li {
+  background-color: #ffffff;
+  border: 1px solid #cccccc;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+/* Define o estilo dos cabeçalhos das caixas de informação */
+h3 {
+  color: #333333;
+  font-size: 20px;
+  margin-top: 0;
+}
+
+/* Define o estilo do texto de descrição das caixas de informação */
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 10px 0;
+}
+
+/* Define o estilo da lista de habilidades */
+ul:last-child {
+  margin-bottom: 0;
+}
+
+/* Define o estilo dos itens da lista de habilidades */
+ul:last-child li {
+  background-color: #333333;
+  color: #ffffff;
+  display: inline-block;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  padding: 5px 10px;
+}
